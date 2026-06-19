@@ -1,0 +1,3 @@
+-- Purpose: Create dimension tables (dim_date, dim_customer, dim_product, dim_region, dim_channel, dim_order).
+-- Phase: 3 — Dimensional model
+-- Implementation: Pending

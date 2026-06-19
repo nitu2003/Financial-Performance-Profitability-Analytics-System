@@ -1,0 +1,3 @@
+-- Purpose: Standardize customer master data; handle nulls and segment values.
+-- Output: stg_customers ready for dim_customer load.
+-- Implementation: Pending

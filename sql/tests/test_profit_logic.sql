@@ -1,0 +1,3 @@
+-- Purpose: Validate profit calculations (gross_profit = net_revenue - COGS; margin bounds).
+-- Run: After warehouse build; fail pipeline on violation.
+-- Implementation: Pending

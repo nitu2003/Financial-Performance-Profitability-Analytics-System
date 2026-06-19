@@ -1,0 +1,11 @@
+region_id,region_name,country
+REG-001,Northeast,United States
+REG-002,Pacific,United States
+REG-003,Southeast,United States
+REG-004,Midwest,United States
+REG-005,United Kingdom,United Kingdom
+REG-006,DACH,Germany
+REG-007,Nordics,Sweden
+REG-008,ANZ,Australia
+REG-009,India Metro,India
+REG-010,UAE Hub,United Arab Emirates

@@ -1,0 +1,3 @@
+-- Purpose: Executive KPI summary mart (monthly revenue, profit, margin, AOV, YoY/MoM inputs).
+-- Grain: month
+-- Implementation: Pending

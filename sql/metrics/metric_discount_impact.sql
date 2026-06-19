@@ -1,0 +1,3 @@
+-- Purpose: Discount impact metrics (discount amount, discount rate, revenue foregone).
+-- Type: View — supports discount and promotions dashboard page.
+-- Implementation: Pending

@@ -1,0 +1,3 @@
+-- Purpose: Pre-aggregate customer-level metrics (lifetime revenue, order count, avg margin) for marts.
+-- Output: int_customer_metrics intermediate table/view.
+-- Implementation: Pending

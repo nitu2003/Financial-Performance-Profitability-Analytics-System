@@ -1,0 +1,2 @@
+# SQLite warehouse file (analytics.db) is created here by the pipeline.
+# Database file is gitignored; build locally with scripts/run_pipeline.

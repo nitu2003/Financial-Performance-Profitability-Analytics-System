@@ -1,0 +1,3 @@
+-- Purpose: Standardize region reference data (country, region_name).
+-- Output: stg_regions ready for dim_region load.
+-- Implementation: Pending

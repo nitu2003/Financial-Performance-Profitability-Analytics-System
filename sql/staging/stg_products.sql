@@ -1,0 +1,3 @@
+-- Purpose: Clean product catalog; validate unit_cost and category fields.
+-- Output: stg_products ready for dim_product load.
+-- Implementation: Pending

@@ -1,0 +1,3 @@
+-- Purpose: Daily sales mart for monthly/yearly trend analysis (revenue, profit, orders).
+-- Grain: date x region x channel
+-- Implementation: Pending

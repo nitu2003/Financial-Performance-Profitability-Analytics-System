@@ -1,0 +1,3 @@
+-- Purpose: Create fact_sales at order-line grain with revenue, COGS, and profit columns.
+-- Phase: 3 — Dimensional model
+-- Implementation: Pending

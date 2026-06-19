@@ -1,0 +1,3 @@
+-- Purpose: Assert primary key uniqueness on dimensions and fact_sales.
+-- Run: After warehouse build; fail pipeline on violation.
+-- Implementation: Pending

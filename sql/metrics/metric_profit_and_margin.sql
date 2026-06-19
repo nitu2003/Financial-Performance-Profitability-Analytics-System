@@ -1,0 +1,3 @@
+-- Purpose: Gross profit and profit margin % metric definitions with safe division.
+-- Type: View — single source of truth for P&L KPIs.
+-- Implementation: Pending

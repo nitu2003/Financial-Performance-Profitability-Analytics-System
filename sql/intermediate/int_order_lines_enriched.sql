@@ -1,0 +1,3 @@
+-- Purpose: Join order lines to orders, products, and discounts; compute gross/net revenue, COGS, profit.
+-- Output: Enriched line-level dataset before fact_sales load.
+-- Implementation: Pending

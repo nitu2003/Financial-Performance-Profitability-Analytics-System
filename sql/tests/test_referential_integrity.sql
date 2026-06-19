@@ -1,0 +1,3 @@
+-- Purpose: Assert foreign keys (no orphan customer_id, product_id, region_id in facts).
+-- Run: After warehouse build; fail pipeline on violation.
+-- Implementation: Pending

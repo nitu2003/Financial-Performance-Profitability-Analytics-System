@@ -1,0 +1,2 @@
+# Landing zone for immutable source file copies after Python extract.
+# Contents are gitignored; regenerate via python/extract.py.

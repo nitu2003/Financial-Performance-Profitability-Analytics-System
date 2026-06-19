@@ -1,0 +1,3 @@
+-- Purpose: Clean and type-cast order header data from raw sources.
+-- Output: stg_orders view/table with standardized dates and keys.
+-- Implementation: Pending

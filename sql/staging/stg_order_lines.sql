@@ -1,0 +1,3 @@
+-- Purpose: Clean order line items; enforce numeric types for quantity, price, and discounts.
+-- Output: stg_order_lines with deduplicated order_line_id.
+-- Implementation: Pending

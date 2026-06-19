@@ -1,0 +1,3 @@
+-- Purpose: Create database schemas (e.g. raw, staging, core, marts) for the analytics warehouse.
+-- Phase: 2 — Warehouse foundation
+-- Implementation: Pending

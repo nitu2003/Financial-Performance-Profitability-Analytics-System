@@ -1,0 +1,281 @@
+product_id,product_name,category,unit_cost,unit_price
+PRD-00001,Essential Laptop Ele-001,Electronics,180.65,424.98
+PRD-00002,Ultra Monitor Ele-002,Electronics,48.02,56.68
+PRD-00003,Classic Tablet Ele-003,Electronics,263.37,281.59
+PRD-00004,Elite Headphones Ele-004,Electronics,55.63,53.55
+PRD-00005,Deluxe Camera Ele-005,Electronics,370.78,562.75
+PRD-00006,Essential Speaker Ele-006,Electronics,27.4,47.91
+PRD-00007,Smart Router Ele-007,Electronics,532.99,1052.26
+PRD-00008,Compact Keyboard Ele-008,Electronics,79.18,83.92
+PRD-00009,Lite Laptop Ele-009,Electronics,120.04,156.95
+PRD-00010,Compact Monitor Ele-010,Electronics,354.99,812.91
+PRD-00011,Compact Tablet Ele-011,Electronics,907.01,1151.13
+PRD-00012,Smart Headphones Ele-012,Electronics,42.27,49.98
+PRD-00013,Essential Camera Ele-013,Electronics,469.69,608.98
+PRD-00014,Classic Speaker Ele-014,Electronics,53.72,66.93
+PRD-00015,Pro Router Ele-015,Electronics,147.76,156.56
+PRD-00016,Eco Keyboard Ele-016,Electronics,1157.53,1251.56
+PRD-00017,Elite Laptop Ele-017,Electronics,774.19,940.59
+PRD-00018,Deluxe Monitor Ele-018,Electronics,277.53,507.64
+PRD-00019,Standard Tablet Ele-019,Electronics,154.98,152.39
+PRD-00020,Lite Headphones Ele-020,Electronics,1301.71,1726.82
+PRD-00021,Plus Camera Ele-021,Electronics,1054.56,1052.4
+PRD-00022,Smart Speaker Ele-022,Electronics,1111.96,1350.16
+PRD-00023,Eco Router Ele-023,Electronics,1548.91,1883.13
+PRD-00024,Plus Keyboard Ele-024,Electronics,1885.04,1969.06
+PRD-00025,Lite Laptop Ele-025,Electronics,268.42,364.94
+PRD-00026,Classic Monitor Ele-026,Electronics,392.81,425.38
+PRD-00027,Ultra Tablet Ele-027,Electronics,177.9,191.03
+PRD-00028,Smart Headphones Ele-028,Electronics,153.43,150.17
+PRD-00029,Compact Camera Ele-029,Electronics,115.06,163.43
+PRD-00030,Elite Speaker Ele-030,Electronics,1075.6,2356.45
+PRD-00031,Standard Router Ele-031,Electronics,37.66,51.43
+PRD-00032,Ultra Keyboard Ele-032,Electronics,116.6,227.94
+PRD-00033,Premium Laptop Ele-033,Electronics,2284.92,2467.41
+PRD-00034,Pro Monitor Ele-034,Electronics,442.5,531.91
+PRD-00035,Eco Tablet Ele-035,Electronics,894.19,931.36
+PRD-00036,Essential Headphones Ele-036,Electronics,406.81,437.46
+PRD-00037,Pro Camera Ele-037,Electronics,1691.88,1816.5
+PRD-00038,Elite Speaker Ele-038,Electronics,195.82,279.36
+PRD-00039,Elite Router Ele-039,Electronics,38.45,70.44
+PRD-00040,Pro Keyboard Ele-040,Electronics,24.35,36.17
+PRD-00041,Smart Laptop Ele-041,Electronics,1735.43,2288.61
+PRD-00042,Compact Monitor Ele-042,Electronics,83.52,113.72
+PRD-00043,Plus Tablet Ele-043,Electronics,218.54,284.12
+PRD-00044,Elite Headphones Ele-044,Electronics,95.11,199.05
+PRD-00045,Premium Camera Ele-045,Electronics,217.14,404.66
+PRD-00046,Elite Speaker Ele-046,Electronics,342.43,366.27
+PRD-00047,Smart Router Ele-047,Electronics,259.89,340.3
+PRD-00048,Classic Keyboard Ele-048,Electronics,1321.09,1763.16
+PRD-00049,Max Laptop Ele-049,Electronics,220.61,266.81
+PRD-00050,Classic Monitor Ele-050,Electronics,50.74,64.46
+PRD-00051,Premium Tablet Ele-051,Electronics,127.5,155.62
+PRD-00052,Elite Headphones Ele-052,Electronics,718.76,912.35
+PRD-00053,Plus Camera Ele-053,Electronics,25.42,31.45
+PRD-00054,Max Speaker Ele-054,Electronics,325.49,350.73
+PRD-00055,Plus Router Ele-055,Electronics,19.18,42.73
+PRD-00056,Compact Keyboard Ele-056,Electronics,29.36,36.54
+PRD-00057,Max Desk Fur-057,Furniture,86.94,108.5
+PRD-00058,Lite Chair Fur-058,Furniture,52.0,98.74
+PRD-00059,Deluxe Cabinet Fur-059,Furniture,881.4,1296.94
+PRD-00060,Standard Bookshelf Fur-060,Furniture,460.18,487.77
+PRD-00061,Premium Table Fur-061,Furniture,119.06,152.21
+PRD-00062,Standard Sofa Fur-062,Furniture,678.73,699.99
+PRD-00063,Premium Wardrobe Fur-063,Furniture,571.73,757.76
+PRD-00064,Smart Stool Fur-064,Furniture,1531.27,1851.2
+PRD-00065,Deluxe Desk Fur-065,Furniture,1756.21,2689.1
+PRD-00066,Pro Chair Fur-066,Furniture,64.45,92.79
+PRD-00067,Elite Cabinet Fur-067,Furniture,156.89,355.54
+PRD-00068,Ultra Bookshelf Fur-068,Furniture,70.92,91.46
+PRD-00069,Lite Table Fur-069,Furniture,1224.3,1321.1
+PRD-00070,Elite Sofa Fur-070,Furniture,1523.2,1793.9
+PRD-00071,Smart Wardrobe Fur-071,Furniture,1470.81,2055.13
+PRD-00072,Max Stool Fur-072,Furniture,645.71,679.59
+PRD-00073,Premium Desk Fur-073,Furniture,258.02,276.22
+PRD-00074,Classic Chair Fur-074,Furniture,617.03,642.59
+PRD-00075,Elite Cabinet Fur-075,Furniture,466.63,484.42
+PRD-00076,Premium Bookshelf Fur-076,Furniture,623.3,797.73
+PRD-00077,Ultra Table Fur-077,Furniture,150.45,224.35
+PRD-00078,Plus Sofa Fur-078,Furniture,319.43,680.64
+PRD-00079,Deluxe Wardrobe Fur-079,Furniture,1509.19,1902.3
+PRD-00080,Max Stool Fur-080,Furniture,2104.43,2942.93
+PRD-00081,Ultra Desk Fur-081,Furniture,355.7,613.68
+PRD-00082,Elite Chair Fur-082,Furniture,2501.85,2592.99
+PRD-00083,Pro Cabinet Fur-083,Furniture,408.93,519.28
+PRD-00084,Max Bookshelf Fur-084,Furniture,91.41,169.4
+PRD-00085,Eco Table Fur-085,Furniture,1550.21,1824.31
+PRD-00086,Classic Sofa Fur-086,Furniture,1346.25,1687.18
+PRD-00087,Deluxe Wardrobe Fur-087,Furniture,143.41,182.95
+PRD-00088,Essential Stool Fur-088,Furniture,98.54,94.97
+PRD-00089,Essential Desk Fur-089,Furniture,56.85,119.45
+PRD-00090,Ultra Chair Fur-090,Furniture,1280.42,1763.24
+PRD-00091,Pro Cabinet Fur-091,Furniture,2117.25,2235.09
+PRD-00092,Essential Bookshelf Fur-092,Furniture,1443.1,1448.99
+PRD-00093,Premium Table Fur-093,Furniture,69.58,89.12
+PRD-00094,Premium Sofa Fur-094,Furniture,169.68,252.5
+PRD-00095,Deluxe Wardrobe Fur-095,Furniture,112.06,149.71
+PRD-00096,Smart Stool Fur-096,Furniture,53.29,126.71
+PRD-00097,Smart Desk Fur-097,Furniture,90.32,96.06
+PRD-00098,Pro Chair Fur-098,Furniture,124.9,184.97
+PRD-00099,Smart Cabinet Fur-099,Furniture,870.72,932.54
+PRD-00100,Max Bookshelf Fur-100,Furniture,77.85,83.69
+PRD-00101,Classic Table Fur-101,Furniture,313.35,334.82
+PRD-00102,Max Sofa Fur-102,Furniture,1764.81,2185.33
+PRD-00103,Max Wardrobe Fur-103,Furniture,365.59,521.04
+PRD-00104,Deluxe Stool Fur-104,Furniture,1272.36,1842.98
+PRD-00105,Max Desk Fur-105,Furniture,2646.45,2782.39
+PRD-00106,Premium Chair Fur-106,Furniture,665.65,656.99
+PRD-00107,Smart Cabinet Fur-107,Furniture,242.07,313.9
+PRD-00108,Pro Bookshelf Fur-108,Furniture,112.22,193.41
+PRD-00109,Plus Table Fur-109,Furniture,148.04,156.84
+PRD-00110,Elite Sofa Fur-110,Furniture,639.35,851.44
+PRD-00111,Plus Wardrobe Fur-111,Furniture,1285.03,1918.9
+PRD-00112,Standard Stool Fur-112,Furniture,178.31,241.15
+PRD-00113,Elite Notebook Off-113,Office Supplies,4.81,8.76
+PRD-00114,Deluxe Pen Set Off-114,Office Supplies,17.89,17.65
+PRD-00115,Premium Stapler Off-115,Office Supplies,5.04,7.52
+PRD-00116,Eco Paper Ream Off-116,Office Supplies,22.09,23.07
+PRD-00117,Standard Binder Off-117,Office Supplies,16.72,30.39
+PRD-00118,Pro Markers Off-118,Office Supplies,21.84,29.05
+PRD-00119,Deluxe Envelopes Off-119,Office Supplies,7.06,7.65
+PRD-00120,Plus Planner Off-120,Office Supplies,9.97,11.81
+PRD-00121,Essential Notebook Off-121,Office Supplies,18.7,24.29
+PRD-00122,Lite Pen Set Off-122,Office Supplies,25.49,24.6
+PRD-00123,Deluxe Stapler Off-123,Office Supplies,54.06,74.52
+PRD-00124,Classic Paper Ream Off-124,Office Supplies,42.59,43.91
+PRD-00125,Ultra Binder Off-125,Office Supplies,6.34,7.74
+PRD-00126,Standard Markers Off-126,Office Supplies,11.22,23.97
+PRD-00127,Deluxe Envelopes Off-127,Office Supplies,4.24,9.12
+PRD-00128,Deluxe Planner Off-128,Office Supplies,72.02,145.87
+PRD-00129,Deluxe Notebook Off-129,Office Supplies,58.51,61.6
+PRD-00130,Premium Pen Set Off-130,Office Supplies,35.27,45.13
+PRD-00131,Standard Stapler Off-131,Office Supplies,34.78,48.38
+PRD-00132,Essential Paper Ream Off-132,Office Supplies,74.73,93.34
+PRD-00133,Deluxe Binder Off-133,Office Supplies,9.37,13.1
+PRD-00134,Deluxe Markers Off-134,Office Supplies,21.84,39.79
+PRD-00135,Plus Envelopes Off-135,Office Supplies,43.47,51.42
+PRD-00136,Essential Planner Off-136,Office Supplies,71.69,91.26
+PRD-00137,Plus Notebook Off-137,Office Supplies,10.59,11.46
+PRD-00138,Plus Pen Set Off-138,Office Supplies,33.69,66.86
+PRD-00139,Deluxe Stapler Off-139,Office Supplies,5.79,12.0
+PRD-00140,Classic Paper Ream Off-140,Office Supplies,4.88,5.12
+PRD-00141,Essential Binder Off-141,Office Supplies,5.71,7.4
+PRD-00142,Standard Markers Off-142,Office Supplies,109.93,119.37
+PRD-00143,Smart Envelopes Off-143,Office Supplies,72.71,101.36
+PRD-00144,Classic Planner Off-144,Office Supplies,19.55,27.43
+PRD-00145,Classic Notebook Off-145,Office Supplies,6.44,6.9
+PRD-00146,Essential Pen Set Off-146,Office Supplies,26.03,49.17
+PRD-00147,Pro Stapler Off-147,Office Supplies,10.44,14.91
+PRD-00148,Classic Paper Ream Off-148,Office Supplies,5.67,6.92
+PRD-00149,Max Binder Off-149,Office Supplies,15.31,22.03
+PRD-00150,Pro Markers Off-150,Office Supplies,64.01,93.4
+PRD-00151,Essential Envelopes Off-151,Office Supplies,33.71,61.45
+PRD-00152,Premium Planner Off-152,Office Supplies,8.5,10.52
+PRD-00153,Standard Notebook Off-153,Office Supplies,6.21,9.06
+PRD-00154,Essential Pen Set Off-154,Office Supplies,8.07,19.0
+PRD-00155,Ultra Stapler Off-155,Office Supplies,25.23,46.53
+PRD-00156,Standard Paper Ream Off-156,Office Supplies,4.59,5.46
+PRD-00157,Eco Binder Off-157,Office Supplies,28.61,65.81
+PRD-00158,Essential Markers Off-158,Office Supplies,31.86,34.03
+PRD-00159,Premium Envelopes Off-159,Office Supplies,36.71,45.01
+PRD-00160,Ultra Planner Off-160,Office Supplies,7.61,10.38
+PRD-00161,Pro Notebook Off-161,Office Supplies,10.21,10.09
+PRD-00162,Premium Pen Set Off-162,Office Supplies,4.69,6.02
+PRD-00163,Standard Stapler Off-163,Office Supplies,97.99,118.06
+PRD-00164,Essential Paper Ream Off-164,Office Supplies,63.45,65.0
+PRD-00165,Lite Binder Off-165,Office Supplies,9.92,15.03
+PRD-00166,Premium Markers Off-166,Office Supplies,17.56,26.77
+PRD-00167,Ultra Envelopes Off-167,Office Supplies,12.07,14.88
+PRD-00168,Eco Planner Off-168,Office Supplies,10.26,21.67
+PRD-00169,Standard Case Acc-169,Accessories,28.43,38.6
+PRD-00170,Plus Cable Acc-170,Accessories,25.82,31.07
+PRD-00171,Premium Stand Acc-171,Accessories,37.69,53.93
+PRD-00172,Elite Adapter Acc-172,Accessories,10.79,11.69
+PRD-00173,Eco Mount Acc-173,Accessories,5.2,11.21
+PRD-00174,Compact Sleeve Acc-174,Accessories,34.24,40.34
+PRD-00175,Ultra Hub Acc-175,Accessories,29.66,54.32
+PRD-00176,Compact Charger Acc-176,Accessories,121.73,179.31
+PRD-00177,Plus Case Acc-177,Accessories,9.31,13.53
+PRD-00178,Max Cable Acc-178,Accessories,23.2,30.27
+PRD-00179,Standard Stand Acc-179,Accessories,16.76,24.83
+PRD-00180,Smart Adapter Acc-180,Accessories,70.41,74.02
+PRD-00181,Essential Mount Acc-181,Accessories,15.61,18.99
+PRD-00182,Essential Sleeve Acc-182,Accessories,73.91,112.82
+PRD-00183,Standard Hub Acc-183,Accessories,36.53,36.13
+PRD-00184,Eco Charger Acc-184,Accessories,44.69,82.82
+PRD-00185,Pro Case Acc-185,Accessories,11.91,14.21
+PRD-00186,Max Cable Acc-186,Accessories,16.79,32.85
+PRD-00187,Classic Stand Acc-187,Accessories,15.47,23.54
+PRD-00188,Elite Adapter Acc-188,Accessories,115.0,124.62
+PRD-00189,Plus Mount Acc-189,Accessories,96.86,147.73
+PRD-00190,Compact Sleeve Acc-190,Accessories,33.64,32.29
+PRD-00191,Standard Hub Acc-191,Accessories,52.74,62.57
+PRD-00192,Standard Charger Acc-192,Accessories,108.12,165.18
+PRD-00193,Classic Case Acc-193,Accessories,8.72,17.93
+PRD-00194,Classic Cable Acc-194,Accessories,43.08,63.62
+PRD-00195,Lite Stand Acc-195,Accessories,34.23,37.1
+PRD-00196,Smart Adapter Acc-196,Accessories,32.92,70.74
+PRD-00197,Premium Mount Acc-197,Accessories,134.39,165.42
+PRD-00198,Plus Sleeve Acc-198,Accessories,186.22,196.91
+PRD-00199,Ultra Hub Acc-199,Accessories,9.35,19.78
+PRD-00200,Compact Charger Acc-200,Accessories,5.21,11.97
+PRD-00201,Ultra Case Acc-201,Accessories,94.09,129.99
+PRD-00202,Eco Cable Acc-202,Accessories,24.55,35.71
+PRD-00203,Standard Stand Acc-203,Accessories,76.78,93.2
+PRD-00204,Deluxe Adapter Acc-204,Accessories,9.17,13.92
+PRD-00205,Compact Mount Acc-205,Accessories,63.05,140.77
+PRD-00206,Lite Sleeve Acc-206,Accessories,17.87,22.67
+PRD-00207,Essential Hub Acc-207,Accessories,39.32,42.24
+PRD-00208,Compact Charger Acc-208,Accessories,23.99,29.45
+PRD-00209,Compact Case Acc-209,Accessories,26.24,25.59
+PRD-00210,Max Cable Acc-210,Accessories,65.3,98.35
+PRD-00211,Compact Stand Acc-211,Accessories,42.21,62.81
+PRD-00212,Eco Adapter Acc-212,Accessories,31.36,41.75
+PRD-00213,Pro Mount Acc-213,Accessories,13.26,13.83
+PRD-00214,Elite Sleeve Acc-214,Accessories,19.73,25.63
+PRD-00215,Max Hub Acc-215,Accessories,54.26,53.02
+PRD-00216,Deluxe Charger Acc-216,Accessories,113.86,121.65
+PRD-00217,Standard Case Acc-217,Accessories,126.77,154.22
+PRD-00218,Premium Cable Acc-218,Accessories,22.33,22.08
+PRD-00219,Plus Stand Acc-219,Accessories,21.2,31.04
+PRD-00220,Max Adapter Acc-220,Accessories,9.24,18.63
+PRD-00221,Pro Mount Acc-221,Accessories,29.22,30.42
+PRD-00222,Classic Sleeve Acc-222,Accessories,72.82,79.08
+PRD-00223,Smart Hub Acc-223,Accessories,39.97,89.0
+PRD-00224,Standard Charger Acc-224,Accessories,22.12,23.78
+PRD-00225,Ultra Microwave App-225,Appliances,275.37,334.6
+PRD-00226,Smart Blender App-226,Appliances,161.15,167.53
+PRD-00227,Standard Vacuum App-227,Appliances,941.94,2188.92
+PRD-00228,Elite Toaster App-228,Appliances,1354.59,1643.24
+PRD-00229,Smart Kettle App-229,Appliances,1173.64,2373.35
+PRD-00230,Standard Air Fryer App-230,Appliances,238.14,317.77
+PRD-00231,Elite Heater App-231,Appliances,1466.02,2662.32
+PRD-00232,Premium Fan App-232,Appliances,1408.7,3091.74
+PRD-00233,Lite Microwave App-233,Appliances,641.54,667.43
+PRD-00234,Classic Blender App-234,Appliances,327.56,500.85
+PRD-00235,Lite Vacuum App-235,Appliances,727.58,1012.91
+PRD-00236,Premium Toaster App-236,Appliances,599.5,714.58
+PRD-00237,Classic Kettle App-237,Appliances,2848.79,2944.62
+PRD-00238,Deluxe Air Fryer App-238,Appliances,146.2,296.11
+PRD-00239,Max Heater App-239,Appliances,2174.43,3071.25
+PRD-00240,Elite Fan App-240,Appliances,1082.49,1127.68
+PRD-00241,Ultra Microwave App-241,Appliances,215.49,233.88
+PRD-00242,Premium Blender App-242,Appliances,114.71,199.15
+PRD-00243,Essential Vacuum App-243,Appliances,1911.33,2031.19
+PRD-00244,Ultra Toaster App-244,Appliances,1077.0,1416.14
+PRD-00245,Classic Kettle App-245,Appliances,194.11,340.96
+PRD-00246,Eco Air Fryer App-246,Appliances,188.0,191.61
+PRD-00247,Lite Heater App-247,Appliances,279.68,379.88
+PRD-00248,Essential Fan App-248,Appliances,214.69,229.54
+PRD-00249,Smart Microwave App-249,Appliances,452.99,544.03
+PRD-00250,Lite Blender App-250,Appliances,584.14,836.98
+PRD-00251,Lite Vacuum App-251,Appliances,525.53,706.1
+PRD-00252,Eco Toaster App-252,Appliances,2585.31,2734.84
+PRD-00253,Ultra Kettle App-253,Appliances,172.56,297.03
+PRD-00254,Eco Air Fryer App-254,Appliances,514.07,903.24
+PRD-00255,Pro Heater App-255,Appliances,1146.26,1131.67
+PRD-00256,Essential Fan App-256,Appliances,2005.91,2180.2
+PRD-00257,Deluxe Microwave App-257,Appliances,376.98,939.4
+PRD-00258,Standard Blender App-258,Appliances,212.18,285.07
+PRD-00259,Plus Vacuum App-259,Appliances,2233.03,3338.96
+PRD-00260,Elite Toaster App-260,Appliances,691.63,737.21
+PRD-00261,Classic Kettle App-261,Appliances,215.1,223.93
+PRD-00262,Plus Air Fryer App-262,Appliances,126.14,160.33
+PRD-00263,Classic Heater App-263,Appliances,167.79,178.33
+PRD-00264,Compact Fan App-264,Appliances,631.53,605.18
+PRD-00265,Ultra Microwave App-265,Appliances,1913.81,2585.87
+PRD-00266,Essential Blender App-266,Appliances,2268.41,3019.77
+PRD-00267,Smart Vacuum App-267,Appliances,135.14,173.36
+PRD-00268,Compact Toaster App-268,Appliances,758.39,1731.89
+PRD-00269,Smart Kettle App-269,Appliances,314.65,325.09
+PRD-00270,Elite Air Fryer App-270,Appliances,2658.56,2769.53
+PRD-00271,Lite Heater App-271,Appliances,108.65,155.79
+PRD-00272,Lite Fan App-272,Appliances,1585.81,2180.61
+PRD-00273,Elite Microwave App-273,Appliances,902.04,1541.95
+PRD-00274,Classic Blender App-274,Appliances,3128.17,3178.97
+PRD-00275,Premium Vacuum App-275,Appliances,2053.81,2920.79
+PRD-00276,Deluxe Toaster App-276,Appliances,699.83,1052.91
+PRD-00277,Compact Kettle App-277,Appliances,185.53,198.15
+PRD-00278,Elite Air Fryer App-278,Appliances,293.4,430.93
+PRD-00279,Compact Heater App-279,Appliances,963.3,1165.07
+PRD-00280,Essential Fan App-280,Appliances,138.03,174.13

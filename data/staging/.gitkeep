@@ -1,0 +1,2 @@
+# Optional intermediate files between raw ingest and SQL warehouse load.
+# Contents are gitignored.
