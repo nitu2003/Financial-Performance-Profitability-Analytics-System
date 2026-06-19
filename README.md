@@ -108,16 +108,16 @@ Average Order Value = DIVIDE([Total Revenue],[Total Orders],0)
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](docs/screenshots/1_Executive_Overview.png)
 
 ### Product Profitability
-![Product Profitability](screenshots/product-profitability.png)
+![Product Profitability](docs/screenshots/2_Product_Profitability.png)
 
 ### Regional Performance
-![Regional Performance](screenshots/regional-performance.png)
+![Regional Performance](docs/screenshots/3_Regional_Performance.png)
 
 ### Customer Analytics
-![Customer Analytics](screenshots/customer-analytics.png)
+![Customer Analytics](docs/screenshots/4_Customer_Analytics.png)
 
 ## Business Impact
 
